@@ -1,7 +1,7 @@
 # Cipher-Algorithm
 <Using java Language>
 
-This project is made for Simple cipher algorithm implements.
+This project is made for Simple cipher algorithm implementation.
 
 There is "Ciphers" directory. Open it and go "src" dir.
 
